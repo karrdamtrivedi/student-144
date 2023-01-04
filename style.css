@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(128, 255, 0);
+}
+
+#score{
+    font-size: 40;
+    margin-left: 60px;
+    font-style: oblique;
+}
+
+#timer{
+    font-size: 40;
+    float: right;
+    margin-right: 100;
+    font-style: oblique;
+}
+
+p{
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
+#sketch_to_be_drawn{
+   color:red; 
+   font-size: 25px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    font-size: 60px;
+    background-color: white;
+}
+
+#show_sketch{
+    font-size: 15px;
+}
